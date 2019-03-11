@@ -1,2 +1,2 @@
 this is a day
-this is two day
+this is two days
