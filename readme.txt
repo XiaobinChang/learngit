@@ -1,3 +1,2 @@
-this is a day
-this is two days
-this is three days
+git is a version control system
+git is free software
