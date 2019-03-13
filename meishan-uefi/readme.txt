@@ -1,4 +1,1 @@
-git is a distributed version control system
-git is free software
-Creating a new branch is quick
-
+关于眉山项目的uefi启动安装凝思系统，系统版本包括40-70和60
