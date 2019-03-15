@@ -1,3 +1,1 @@
-git is a distributed version control system
-git is free software
-Creating a new branch is quick
+这是眉山的项目，关于uefi安装40-700与60系统。
