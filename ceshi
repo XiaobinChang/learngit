@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#这是一个圣诞树图案
+#这是一个圣诞树图案,娱乐而已。
 
 trap "tput reset; tput cnorm; exit" 2
 clear
